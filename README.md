@@ -55,7 +55,9 @@ body {
   Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala
   </p>
   <hr>
-  <h2>Gracias por visitar mi pagina web.</h2>
+  <h2>Gracias por visitar mi página web.</h2>
   <p>Espero te haya gustado mi proyecto.</p>
+  <scrip>
+  </scrip>
 </body>
 </html>
