@@ -3,14 +3,16 @@
 abi.jpg
 IMG-20260626-WA0000.jpg
 holaa.jpg
+
+
 <!DOCTYPE html>
-</html>
+<html>
 
 <html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MI página web</title>
+  <title>MI pagina web</title>
 
   <style>
     <style>
@@ -29,7 +31,11 @@ body {
 </style>
 
   
-<html>
+
+
+  </style>
+
+  
 </head>
 <body>
   <h1>ArqGen Studio</h1>
@@ -37,7 +43,7 @@ body {
   <p>
    Proyecta tu futuro con precisión en cada línea.
   </p>
-  <p></p>aling="center"><img src="IMG-20260626-WA0000.jpg" height="150" width="150" /></p>
+  <p aling="center"><img src="IMG-20260626-WA0000.jpg" height="150" width="150" /></p>
     <img src="holaa.jpg" height="300" width="500>"
   </p>
   <a href="https://viewer.desygner.com/4WjmTFZQa3S">ArqGen Studio</a>
@@ -56,7 +62,9 @@ body {
   <hr>
   <h2>Gracias por visitar mi página web.</h2>
   <p>Espero te haya gustado mi proyecto.</p>
-  <scrip>
-  </scrip>
+
+  <script>
+    
+  </script>
 </body>
 </html>
