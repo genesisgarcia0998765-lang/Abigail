@@ -10,7 +10,7 @@ holaa.jpg
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MI pagina web</title>
+  <title>MI página web</title>
 
   <style>
     <style>
@@ -29,10 +29,7 @@ body {
 </style>
 
   
-
-
-  </style>
-
+<html>
   
 </head>
 <body>
@@ -41,7 +38,7 @@ body {
   <p>
    Proyecta tu futuro con precisión en cada línea.
   </p>
-  <p aling="center"><img src="IMG-20260626-WA0000.jpg" height="150" width="150" /></p>
+  <p></p>aling="center"><img src="IMG-20260626-WA0000.jpg" height="150" width="150" /></p>
     <img src="holaa.jpg" height="300" width="500>"
   </p>
   <a href="https://viewer.desygner.com/4WjmTFZQa3S">ArqGen Studio</a>
