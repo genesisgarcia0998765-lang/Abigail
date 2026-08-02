@@ -4,7 +4,7 @@ abi.jpg
 IMG-20260626-WA0000.jpg
 holaa.jpg
 <!DOCTYPE html>
-<html>
+</html>
 
 <html>
 <head>
@@ -30,7 +30,6 @@ body {
 
   
 <html>
-  
 </head>
 <body>
   <h1>ArqGen Studio</h1>
