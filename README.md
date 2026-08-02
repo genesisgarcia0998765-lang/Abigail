@@ -57,9 +57,5 @@ body {
   <hr>
   <h2>Gracias por visitar mi pagina web.</h2>
   <p>Espero te haya gustado mi proyecto.</p>
-
-  <script>
-    
-  </script>
 </body>
 </html>
