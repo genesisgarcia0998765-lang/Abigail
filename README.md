@@ -4,8 +4,6 @@ abi.jpg
 IMG-20260626-WA0000.jpg
 holaa.jpg
 
-
-<!DOCTYPE html>
 <html>
 
 <html>
@@ -40,31 +38,19 @@ body {
 <body>
   <h1>ArqGen Studio</h1>
 <p>Planta de cimiento.</p>
-  <p>
-   Proyecta tu futuro con precisión en cada línea.
-  </p>
-  <p aling="center"><img src="IMG-20260626-WA0000.jpg" height="150" width="150" /></p>
-    <img src="holaa.jpg" height="300" width="500>"
-  </p>
-  <a href="https://viewer.desygner.com/4WjmTFZQa3S">ArqGen Studio</a>
-  <p aling="center"><img src="abi.jpg" height="300" width="400"
-  ></p>
-  <h2>Datos de contacto:</h2>
-  <p>
-  No.de contacto: 4668-4495
-  </p>
-  <p>
-    Correo electrónico: garcia-genesis-K000rfx-24@ilma.edu.gt
-  <p/>
-  <p>
-  Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala
-  </p>
-  <hr>
-  <h2>Gracias por visitar mi página web.</h2>
-  <p>Espero te haya gustado mi proyecto.</p>
+<p>Proyecta tu futuro con precisión en cada línea.</p>
+<p aling="center">
+  <img src="IMG-20260626-WA0000.jpg" height="150" width="150" />
+</p>
+<a href="https://viewer.desygner.com/4WjmTFZQa3S">ArqGen Studio</a>
+<p aling="center"><img src="abi.jpg" height="300" width="400" /></p>
+<h2>Datos de contacto:</h2>
+<p>No.de contacto: 4668-4495</p>
+<p>Correo electrónico: garcia-genesis-K000rfx-24@ilma.edu.gt</p>
 
-  <script>
-    
-  </script>
-</body>
+<p />
+<p>Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala</p>
+<hr />
+<h2>Gracias por visitar mi pagina web.</h2>
+<p>Espero te haya gustado mi proyecto.</p>
 </html>
